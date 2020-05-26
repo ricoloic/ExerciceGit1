@@ -1,1 +1,2 @@
 Hello World -- MH
+Hello  modified with git bash --SC
