@@ -1,3 +1,2 @@
-HelloWorld! MH
 Hello Word -- MP
 Tool = Nano dans le Bash de Git
