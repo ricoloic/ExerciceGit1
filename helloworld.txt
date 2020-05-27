@@ -1,2 +1,3 @@
-Hello World -- JF
-iterm2
+Hello World -- MH
+Hello- World -- CG
+    gitBash
